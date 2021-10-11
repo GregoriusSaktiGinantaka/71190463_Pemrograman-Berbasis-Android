@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/frgA"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="id.ac.ukdw.progandro.pertemuan6_71190463.FragmentA"
+        android:layout_weight="1"/>
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/frgB"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="id.ac.ukdw.progandro.pertemuan6_71190463.FragmentC"
+        android:layout_weight="1"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
