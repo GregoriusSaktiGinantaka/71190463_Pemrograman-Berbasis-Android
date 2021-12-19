@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\File Kuliah\\Semester 5\\Pemrograman Berbasis Android\\71190463_Pemrograman-Berbasis-Android\\final_71190463\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_result.xml",
+        "source": "D:\\File Kuliah\\Semester 5\\Pemrograman Berbasis Android\\71190463_Pemrograman-Berbasis-Android\\final_71190463\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\File Kuliah\\Semester 5\\Pemrograman Berbasis Android\\71190463_Pemrograman-Berbasis-Android\\final_71190463\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_main.xml",
+        "source": "D:\\File Kuliah\\Semester 5\\Pemrograman Berbasis Android\\71190463_Pemrograman-Berbasis-Android\\final_71190463\\app\\src\\main\\res\\layout\\adapter_main.xml"
+    },
+    {
+        "merged": "D:\\File Kuliah\\Semester 5\\Pemrograman Berbasis Android\\71190463_Pemrograman-Berbasis-Android\\final_71190463\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\File Kuliah\\Semester 5\\Pemrograman Berbasis Android\\71190463_Pemrograman-Berbasis-Android\\final_71190463\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\File Kuliah\\Semester 5\\Pemrograman Berbasis Android\\71190463_Pemrograman-Berbasis-Android\\final_71190463\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_crud.xml",
+        "source": "D:\\File Kuliah\\Semester 5\\Pemrograman Berbasis Android\\71190463_Pemrograman-Berbasis-Android\\final_71190463\\app\\src\\main\\res\\layout\\activity_crud.xml"
+    },
+    {
+        "merged": "D:\\File Kuliah\\Semester 5\\Pemrograman Berbasis Android\\71190463_Pemrograman-Berbasis-Android\\final_71190463\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_create_account.xml",
+        "source": "D:\\File Kuliah\\Semester 5\\Pemrograman Berbasis Android\\71190463_Pemrograman-Berbasis-Android\\final_71190463\\app\\src\\main\\res\\layout\\activity_create_account.xml"
+    }
+]

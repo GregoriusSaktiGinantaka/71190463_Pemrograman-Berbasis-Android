@@ -1,0 +1,12 @@
+com/example/final_71190463/databinding/ActivityCrudBinding.java
+ com.example.final_71190463.databinding.ActivityCrudBinding
+com/example/final_71190463/databinding/ActivityLoginBinding.java
+ com.example.final_71190463.databinding.ActivityLoginBinding
+com/example/final_71190463/BuildConfig.java
+ com.example.final_71190463.BuildConfig
+com/example/final_71190463/databinding/AdapterMainBinding.java
+ com.example.final_71190463.databinding.AdapterMainBinding
+com/example/final_71190463/databinding/ActivityResultBinding.java
+ com.example.final_71190463.databinding.ActivityResultBinding
+com/example/final_71190463/databinding/ActivityCreateAccountBinding.java
+ com.example.final_71190463.databinding.ActivityCreateAccountBinding
